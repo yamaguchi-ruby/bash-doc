@@ -4,19 +4,17 @@ layout: doc
 
 # cd
 
-概要
+説明
 :   カレントディレクトリーを移動する。
-
-ディレクトリー`/home`に移動する
-:   
     ```bash
     cd /home
+    # /home に移動する
     ```
 
-移動を1つ戻る
-:   
-    ```bash
-    cd /usr
-    cd -
-    pwd # /home
-    ```
+    [オプション] -
+    :   移動を1つ戻る   
+        ```bash
+        cd /usr
+        cd -
+        pwd # /home
+        ```
