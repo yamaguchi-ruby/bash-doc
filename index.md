@@ -10,4 +10,5 @@ layout: doc
 - [ls](ls)
 - [mkdir](mkdir)
 - [rm](rm)
+- [while](while)
 - [文字列の長さ](文字列の長さ)
